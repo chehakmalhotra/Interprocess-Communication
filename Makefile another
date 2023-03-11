@@ -1,0 +1,3 @@
+all: p1sharedmem.c p2sharedmem.c
+	gcc p1sharedmem.c -o p1sharedmem
+	gcc p2sharedmem.c -o p2sharedmem

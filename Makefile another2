@@ -1,0 +1,3 @@
+all: p1socket.c p2socket.c
+	gcc p1socket.c -o p1socket
+	gcc p2socket.c -o p2socket
